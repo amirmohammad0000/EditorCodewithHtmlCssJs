@@ -2,7 +2,7 @@
 
 Visit my personal site : https://amirmohammad0.ir;
 
-Editor Code created with Html Css Js;
+I wanted to make a program Similar notPad, but now that I have completed it, maybe I can say that it is Similar sublimeText. this app is created with electron. I hope it is useful for you.
 
 ![Screenshot 2022-06-02 235651](https://user-images.githubusercontent.com/74311184/171722251-afb45b37-be3b-47d3-ad40-e3e8c122c4ad.png)
 ![Screenshot 2022-06-02 235643](https://user-images.githubusercontent.com/74311184/171722270-b745777d-a6ca-484c-a533-37be272f2b1a.png)
